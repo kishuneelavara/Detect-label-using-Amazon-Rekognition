@@ -12,7 +12,7 @@ Use python 3.7.9
   
   csv file name - new_user_credentials.csv
   
-3 Download csv file and copy that file to Face-recognition-using-Amazon-Rekognition Directory
+3 Download csv file and copy that file to Detect-label-using-Amazon-Rekognition Directory
 
 4 Install all library mentioned in requiremets.txt
 
