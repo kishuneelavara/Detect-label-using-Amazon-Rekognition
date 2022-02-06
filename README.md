@@ -19,4 +19,4 @@ Use python 3.7.9
 5 then run app.py file.
 
 
-# video - comming 
+# video - https://youtu.be/JT45rC0Yvxo 
